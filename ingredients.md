@@ -1,0 +1,1 @@
+egg,sugar,salt,butter,vanila,flour,baking soda, chocolate chips
